@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(167, 161, 161);
+  }
+  
+  table {
+    margin: auto;
+    background-color: rgb(59, 49, 49);
+    width: 200px;
+    max-width: 200px;
+    height: 300px;
+    text-align: center;
+    border-radius: 5px;
+    padding-right: 15px;
+  }
+
+  input {
+    outline: 0;
+    position: relative;
+    left: 5px;
+    top: 5px;
+    border: 0;
+    color: #495069;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 5px;
+    font-size: 20px;
+    box-shadow: 0 4px rgba(0,0,0,0.2);
+    margin-bottom: 15px;
+  }
+  #display {
+    width: 265px;
+    max-width: 270px;
+    font-size: 26px;
+    text-align: right;
+    background-color: #bcbd95;
+    float: left;
+  }
